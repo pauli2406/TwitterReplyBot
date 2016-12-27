@@ -17,7 +17,7 @@ https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV
 SpecificUserReplyBot.js
 
 <b>Functionality:</b>
-This bot allows you to follow an specific User. Whenever he is going to Tweet something, you are going to notice that und automatically write an Tweet as response. The possible Answers are stored in an Array, so you can change it to whatever you want. 
+This bot allows you to follow an specific User. Whenever he is going to Tweet something, you are going to notice that und automatically write an Tweet as response. The possible answers are stored in an Array, so you can change it to whatever you want. 
 
 <b>How to run the program:</b>
 
