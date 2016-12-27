@@ -11,9 +11,9 @@ JavaScript Stream Bot for Twitter using the Twitter API
 -node JavaScript runtime environment: https://nodejs.org/en/
 
 
-<b>Install:</b>
+<h2><b>Install:</b></h2>
 
-For node and the Twit CLient I refer to the Video from Daniel Shiffman 
+For node and the Twit CLient I refer to the Video from Daniel Shiffman (Video 1-3)
 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV
 
 <b>Functionality:</b>
