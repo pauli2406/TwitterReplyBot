@@ -21,7 +21,7 @@ This bot allows you to follow an specific User. Whenever he is going to Tweet so
 
 <b>How to run the program:</b>
 
-1) Make sure that you've correctly configured your Twitter Keys and node, which can be done by following Daniel Shiffman's first three videos in the playlist.
+1) Make sure that you've correctly configured your Twitter Keys and node.
 
 2) Modify the program by changing listenTweet('any TwitterId') to any ID you want. YOu can find them on gettwitterid.com
 
